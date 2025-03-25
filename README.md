@@ -39,8 +39,8 @@ or
 <pre> <code> yarn start </code> </pre>
 
 # Screenshots
-![image](https://github.com/user-attachments/assets/a888a20f-085a-4ef8-addd-fc3a8220d8cd)
-![image](https://github.com/user-attachments/assets/02c9f66a-2096-489a-95bb-470ec04723b2)
-![image](https://github.com/user-attachments/assets/9c6ce853-5ea4-41a2-965e-ecb9d8a3c897)
-![image](https://github.com/user-attachments/assets/0e32597b-34de-4cdd-84b6-f4d881a1de1b)
-![image](https://github.com/user-attachments/assets/30b6c7cb-58cd-482a-a24a-0297300a3aea)
+![image](https://github.com/user-attachments/assets/2e0b2b40-95c0-4e7d-9733-9fd5aa8ed2e5)
+![image](https://github.com/user-attachments/assets/2b1aecd3-63b0-4df1-af6b-259266e98d81)
+![image](https://github.com/user-attachments/assets/448587c7-db02-4031-bbcf-0695d10c2591)
+![image](https://github.com/user-attachments/assets/f25052c0-1275-42e9-862b-4760aa16ae82)
+![image](https://github.com/user-attachments/assets/156fa28e-7bc3-487c-8a62-52f696145fa1)
