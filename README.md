@@ -22,7 +22,7 @@ An open-source web application built with React.js, similar to platforms like Fo
 # 🚀 Getting Started
 
 1️⃣ Clone the Repository
-<pre> <code> git clone https://github.com/yourusername/FoodDelivery.git cd FoodDelivery </code> </pre>
+<pre> <code> git clone https://github.com/Manan-Joshi750/FoodDelivery.git cd FoodDelivery </code> </pre>
 
 2️⃣ Install Dependencies
 <pre> <code> npm install </code> </pre>
